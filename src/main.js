@@ -11,7 +11,7 @@ import {
 } from './js/render-functions';
 
 const refs = {
-  form: document.querySelector('.search-form'),
+  form: document.querySelector('.form'),
   loadMoreBtn: document.querySelector('.load-more'),
 };
 
